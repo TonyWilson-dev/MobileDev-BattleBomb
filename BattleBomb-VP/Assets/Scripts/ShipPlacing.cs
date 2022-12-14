@@ -8,7 +8,7 @@ public class ShipPlacing : MonoBehaviour
 
     void Start()
     {
-        Debug.Log("starting");
+       
         isMoving = false;
     }
     // Update is called once per frame
